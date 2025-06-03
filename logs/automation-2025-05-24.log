@@ -1,0 +1,39 @@
+2025-05-24 17:15:11.089 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 136.0.7103.113 (resolved driver for Chrome 136)
+2025-05-24 17:15:11.169 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ashut\.cache\selenium\chromedriver\win64\136.0.7103.113\chromedriver.exe
+2025-05-24 17:15:21.627 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-24 17:15:22.480 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 136.0.7103.113 (resolved driver for Chrome 136)
+2025-05-24 17:15:22.553 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ashut\.cache\selenium\chromedriver\win64\136.0.7103.113\chromedriver.exe
+2025-05-24 17:15:33.783 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-24 17:15:34.280 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 136.0.7103.113 (resolved driver for Chrome 136)
+2025-05-24 17:15:34.353 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ashut\.cache\selenium\chromedriver\win64\136.0.7103.113\chromedriver.exe
+2025-05-24 17:15:45.340 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-24 17:15:45.986 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 136.0.7103.113 (resolved driver for Chrome 136)
+2025-05-24 17:15:46.037 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ashut\.cache\selenium\chromedriver\win64\136.0.7103.113\chromedriver.exe
+2025-05-24 17:15:56.180 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-24 17:15:56.608 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 136.0.7103.113 (resolved driver for Chrome 136)
+2025-05-24 17:15:56.637 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ashut\.cache\selenium\chromedriver\win64\136.0.7103.113\chromedriver.exe
+2025-05-24 17:16:05.744 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-24 17:16:06.322 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 136.0.7103.113 (resolved driver for Chrome 136)
+2025-05-24 17:16:06.390 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ashut\.cache\selenium\chromedriver\win64\136.0.7103.113\chromedriver.exe
+2025-05-24 17:16:15.599 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-24 17:16:16.102 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 136.0.7103.113 (resolved driver for Chrome 136)
+2025-05-24 17:16:16.160 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ashut\.cache\selenium\chromedriver\win64\136.0.7103.113\chromedriver.exe
+2025-05-24 17:16:25.112 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-24 17:16:25.761 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 136.0.7103.113 (resolved driver for Chrome 136)
+2025-05-24 17:16:25.828 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ashut\.cache\selenium\chromedriver\win64\136.0.7103.113\chromedriver.exe
+2025-05-24 17:16:31.080 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-24 17:16:31.080 [main] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-24 17:16:31.812 [main] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-24 17:16:32.407 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 136.0.7103.113 (resolved driver for Chrome 136)
+2025-05-24 17:16:32.480 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ashut\.cache\selenium\chromedriver\win64\136.0.7103.113\chromedriver.exe
+2025-05-24 17:16:35.395 [main] INFO  BaseTest.Base - execution started
+2025-05-24 17:28:09.803 [main] INFO  BaseTest.Base - execution started
+2025-05-24 17:31:57.668 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-24 17:32:13.168 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-24 17:32:27.604 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-24 17:32:41.854 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-24 17:32:55.786 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-24 17:33:10.064 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-24 17:33:25.393 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-24 17:33:39.676 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-24 17:33:49.153 [main] INFO  BaseTest.Base - ***validation for invalid result ***

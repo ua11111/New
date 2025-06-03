@@ -1,0 +1,58 @@
+2025-05-17 15:20:08.357 [main] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-17 15:20:08.368 [main] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-17 15:20:19.352 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-17 15:20:19.352 [main] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-17 15:20:19.352 [main] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-17 15:20:30.019 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-17 15:20:30.019 [main] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-17 15:20:30.019 [main] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-17 15:20:40.436 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-17 15:20:40.436 [main] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-17 15:20:40.436 [main] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-17 15:20:45.652 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-17 15:20:45.652 [main] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-17 15:20:46.361 [main] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-17 15:20:49.681 [main] INFO  BaseTest.Base - execution started
+2025-05-17 15:23:39.974 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-17 15:23:39.988 [main] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-17 15:23:39.988 [main] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-17 15:31:49.395 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-17 15:31:49.397 [main] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-17 15:31:49.397 [main] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-17 15:31:58.897 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-17 15:31:58.897 [main] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-17 15:31:58.897 [main] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-17 15:32:08.239 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-17 15:32:08.239 [main] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-17 15:32:08.239 [main] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-17 15:32:18.859 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-17 15:32:18.859 [main] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-17 15:32:18.859 [main] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-17 15:32:24.476 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-17 15:32:24.476 [main] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-17 15:32:25.145 [main] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-17 15:32:28.396 [main] INFO  BaseTest.Base - execution started
+2025-05-17 15:33:27.998 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-17 15:33:28.003 [main] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-17 15:33:28.003 [main] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-17 15:52:13.327 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-17 15:52:13.331 [main] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-17 15:52:13.331 [main] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-17 15:56:39.570 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-17 15:56:39.578 [main] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-17 15:56:39.578 [main] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-17 16:04:27.433 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-17 16:04:27.444 [main] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-17 16:04:27.444 [main] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-17 16:04:39.415 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-17 16:04:39.415 [main] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-17 16:04:39.415 [main] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-17 16:04:52.074 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-17 16:04:52.074 [main] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-17 16:04:52.074 [main] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-17 16:05:04.290 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-17 16:05:04.290 [main] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-17 16:05:04.291 [main] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-17 16:05:10.896 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-17 16:05:10.896 [main] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-17 16:05:11.613 [main] INFO  BaseTest.Base - ***completed LoginDDTest ***

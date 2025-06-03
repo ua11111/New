@@ -1,0 +1,54 @@
+2025-04-23 08:11:59.771 [main] INFO  BaseTest.Base - execution started
+2025-05-01 16:36:39.757 [main] INFO  BaseTest.Base - execution started
+2025-05-01 16:37:21.981 [main] INFO  BaseTest.Base - execution started
+2025-05-01 17:02:36.535 [TestNG-tests-1] INFO  BaseTest.Base - execution started
+2025-05-01 17:02:36.784 [TestNG-tests-2] INFO  BaseTest.Base - execution started
+2025-05-01 17:02:44.762 [TestNG-tests-3] INFO  BaseTest.Base - execution started
+2025-05-02 07:26:31.512 [TestNG-tests-1] INFO  BaseTest.Base - execution started
+2025-05-02 07:26:35.936 [TestNG-tests-3] INFO  BaseTest.Base - execution started
+2025-05-02 07:26:39.321 [TestNG-tests-2] INFO  BaseTest.Base - execution started
+2025-05-12 07:14:57.989 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-12 07:14:58.000 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-12 07:14:58.000 [TestNG-tests-1] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-12 07:15:05.048 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-12 07:15:05.053 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-12 07:15:05.053 [TestNG-tests-1] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-12 07:15:12.256 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-12 07:15:12.256 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-12 07:15:12.256 [TestNG-tests-1] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-12 07:15:19.675 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-12 07:15:19.675 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-12 07:15:19.675 [TestNG-tests-1] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-12 07:15:22.122 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-12 07:15:22.122 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-12 07:15:22.816 [TestNG-tests-1] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-12 07:20:13.985 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-12 07:20:13.992 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-12 07:20:13.992 [TestNG-tests-1] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-12 07:20:20.960 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-12 07:20:20.973 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-12 07:20:20.973 [TestNG-tests-1] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-12 07:20:28.129 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-12 07:20:28.129 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-12 07:20:28.129 [TestNG-tests-1] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-12 07:20:35.429 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-12 07:20:35.429 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-12 07:20:35.429 [TestNG-tests-1] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-12 07:20:37.738 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-12 07:20:37.738 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-12 07:20:38.440 [TestNG-tests-1] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-16 08:25:41.202 [main] INFO  BaseTest.Base - execution started
+2025-05-16 08:29:38.873 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-16 08:29:38.879 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-16 08:29:38.879 [TestNG-tests-1] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-16 08:29:46.169 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-16 08:29:46.169 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-16 08:29:46.170 [TestNG-tests-1] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-16 08:29:52.479 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-16 08:29:52.480 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-16 08:29:52.480 [TestNG-tests-1] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-16 08:29:59.676 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-16 08:29:59.676 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for valid result ***
+2025-05-16 08:29:59.676 [TestNG-tests-1] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-05-16 08:30:02.608 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-05-16 08:30:02.608 [TestNG-tests-1] INFO  BaseTest.Base - ***validation for valid result ***

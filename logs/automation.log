@@ -1,22 +1,20 @@
-2025-05-24 17:33:49.153 [main] INFO  BaseTest.Base - ***validation for valid result ***
-2025-05-24 17:33:49.977 [main] INFO  BaseTest.Base - ***completed LoginDDTest ***
-2025-05-24 17:33:57.823 [main] INFO  BaseTest.Base - execution started
-2025-05-25 15:06:51.271 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 136.0.7103.113 (resolved driver for Chrome 136)
-2025-05-25 15:06:51.364 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ashut\.cache\selenium\chromedriver\win64\136.0.7103.113\chromedriver.exe
-2025-05-25 15:06:57.772 [main] INFO  BaseTest.Base - execution started
-2025-05-25 16:25:56.232 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 136.0.7103.113 (resolved driver for Chrome 136)
-2025-05-25 16:25:56.417 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ashut\.cache\selenium\chromedriver\win64\136.0.7103.113\chromedriver.exe
-2025-05-25 16:26:02.307 [main] INFO  BaseTest.Base - execution started
-2025-05-25 16:30:51.704 [main] INFO  BaseTest.Base - execution started
-2025-05-25 16:32:26.087 [main] INFO  BaseTest.Base - ***validation for invalid result ***
-2025-05-25 16:32:40.021 [main] INFO  BaseTest.Base - ***validation for invalid result ***
-2025-05-25 16:32:56.718 [main] INFO  BaseTest.Base - ***validation for invalid result ***
-2025-05-25 16:33:11.261 [main] INFO  BaseTest.Base - ***validation for invalid result ***
-2025-05-25 16:33:25.816 [main] INFO  BaseTest.Base - ***validation for invalid result ***
-2025-05-25 16:33:39.371 [main] INFO  BaseTest.Base - ***validation for invalid result ***
-2025-05-25 16:33:54.016 [main] INFO  BaseTest.Base - ***validation for invalid result ***
-2025-05-25 16:34:07.822 [main] INFO  BaseTest.Base - ***validation for invalid result ***
-2025-05-25 16:34:17.100 [main] INFO  BaseTest.Base - ***validation for invalid result ***
-2025-05-25 16:34:17.100 [main] INFO  BaseTest.Base - ***validation for valid result ***
-2025-05-25 16:34:17.786 [main] INFO  BaseTest.Base - ***completed LoginDDTest ***
-2025-05-25 16:34:24.728 [main] INFO  BaseTest.Base - execution started
+2025-06-19 06:53:02.898 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-06-19 06:53:03.516 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-06-19 06:53:03.563 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ashut\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-06-19 06:53:12.558 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-06-19 06:53:13.050 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-06-19 06:53:13.095 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ashut\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-06-19 06:53:22.963 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-06-19 06:53:23.642 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-06-19 06:53:23.684 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ashut\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-06-19 06:53:28.984 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-06-19 06:53:28.985 [main] INFO  BaseTest.Base - ***validation for valid result ***
+2025-06-19 06:53:29.703 [main] INFO  BaseTest.Base - ***completed LoginDDTest ***
+2025-06-19 06:53:30.286 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-06-19 06:53:30.346 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ashut\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-06-19 06:53:33.082 [main] INFO  BaseTest.Base - execution started
+2025-06-19 06:55:43.753 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-06-19 06:55:43.839 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ashut\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-06-19 06:55:52.373 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-06-19 06:55:52.616 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ashut\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-06-19 06:55:55.731 [main] INFO  BaseTest.Base - execution started

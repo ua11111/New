@@ -4,9 +4,9 @@
          <listeners>
     <listener class-name = "TestingApp.Listeners"></listener>
     </listeners>
-
+  <test name="edgeTest">
 <parameter name="Browser" value="edge"></parameter>
-  <test thread-count="5" name="Test">
+ 
     <classes>
       <class name="TestingApp.RegistrationTest"/>
     </classes>

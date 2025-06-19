@@ -1,0 +1,38 @@
+2025-06-19 06:48:19.903 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ashut\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-06-19 06:48:30.747 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-06-19 06:48:30.939 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ashut\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-06-19 06:48:33.901 [main] INFO  BaseTest.Base - execution started
+2025-06-19 06:51:22.758 [main] INFO  BaseTest.Base - execution started
+2025-06-19 06:51:49.474 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-06-19 06:51:49.572 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ashut\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-06-19 06:52:01.651 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-06-19 06:52:01.920 [AsyncHttpClient-1-4] WARN  org.asynchttpclient.netty.handler.WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256) ~[netty-buffer-4.1.91.Final.jar:4.1.91.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.91.Final.jar:4.1.91.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.91.Final.jar:4.1.91.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.91.Final.jar:4.1.91.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) [netty-transport-4.1.91.Final.jar:4.1.91.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) [netty-transport-4.1.91.Final.jar:4.1.91.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) [netty-transport-4.1.91.Final.jar:4.1.91.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) [netty-transport-4.1.91.Final.jar:4.1.91.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) [netty-common-4.1.91.Final.jar:4.1.91.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.91.Final.jar:4.1.91.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.91.Final.jar:4.1.91.Final]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+2025-06-19 06:52:02.526 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-06-19 06:52:02.722 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ashut\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-06-19 06:52:14.711 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-06-19 06:52:15.597 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-06-19 06:52:15.652 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ashut\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-06-19 06:52:26.168 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-06-19 06:52:26.935 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-06-19 06:52:26.984 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ashut\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-06-19 06:52:38.222 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-06-19 06:52:39.777 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-06-19 06:52:39.889 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ashut\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe
+2025-06-19 06:52:50.589 [main] INFO  BaseTest.Base - ***validation for invalid result ***
+2025-06-19 06:52:51.686 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 137.0.7151.119 (resolved driver for Chrome 137)
+2025-06-19 06:52:51.737 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ashut\.cache\selenium\chromedriver\win64\137.0.7151.119\chromedriver.exe

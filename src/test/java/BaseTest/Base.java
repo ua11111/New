@@ -35,7 +35,7 @@ public class Base {
 	
 	@Parameters({"Browser"})
 
-	public void setup( String browsername) throws IOException
+	public void setup( @Optional("chrome")String browsername) throws IOException
 
 	{
 		 prop=new Properties();

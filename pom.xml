@@ -106,22 +106,29 @@
 
     <!-- HIGHLIGHT: Profile to run testng.xml -->
     <profile>
-      <id>testng</id>
-      <build>
-        <plugins>
-          <plugin>
-            <groupId>org.apache.maven.plugins</groupId>
-            <artifactId>maven-surefire-plugin</artifactId>
-            <version>3.2.5</version> <!-- HIGHLIGHT: Explicit plugin version -->
-            <configuration>
-              <suiteXmlFiles>
-                <suiteXmlFile>testng.xml</suiteXmlFile> <!-- HIGHLIGHT: Will execute testng.xml -->
-              </suiteXmlFiles>
-            </configuration>
-          </plugin>
-        </plugins>
-      </build>
-    </profile>
+  <id>testng</id>
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-surefire-plugin</artifactId>
+        <version>3.2.5</version>
+        <configuration>
+          <suiteXmlFiles>
+            <suiteXmlFile>testng.xml</suiteXmlFile>
+          </suiteXmlFiles>
+          <testNGArtifactName>org.testng:testng</testNGArtifactName>
+          <properties>
+            <property>
+              <name>listener</name>
+              <value>org.testng.reporters.XMLReporter</value>
+            </property>
+          </properties>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+</profile>
 
     <!-- HIGHLIGHT: Profile to run crossParallel.xml -->
     <profile>

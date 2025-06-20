@@ -105,7 +105,7 @@
   <profiles>
 
     <!-- HIGHLIGHT: Profile to run testng.xml -->
-    <profile>
+  <profile>
   <id>testng</id>
   <build>
     <plugins>
@@ -113,23 +113,23 @@
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-surefire-plugin</artifactId>
         <version>3.2.5</version>
+        <dependencies>
+          <!-- Force surefire to use TestNG runner -->
+          <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>7.4.0</version>
+          </dependency>
+        </dependencies>
         <configuration>
           <suiteXmlFiles>
             <suiteXmlFile>testng.xml</suiteXmlFile>
           </suiteXmlFiles>
-          <testNGArtifactName>org.testng:testng</testNGArtifactName>
-          <properties>
-            <property>
-              <name>listener</name>
-              <value>org.testng.reporters.XMLReporter</value>
-            </property>
-          </properties>
         </configuration>
       </plugin>
     </plugins>
   </build>
 </profile>
-
     <!-- HIGHLIGHT: Profile to run crossParallel.xml -->
     <profile>
       <id>crossparallel</id>
